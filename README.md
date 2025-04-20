@@ -51,7 +51,7 @@ src/
 ### Executando
 ```
  - Clone o repositório
-    git clone https://github.com/seuuser/monitor-economico.git
+    git clone https://github.com/olavoneves/EconoMonitorBR.git
 
  - Entre na pasta do projeto
     cd monitor-economico
